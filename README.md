@@ -1,9 +1,9 @@
 # Faaaala dev, Luigi Aqui!
 
-<header style="display: flex; margin-bottom: 30px;" class="chart">
+<div style="display: flex; margin-bottom: 30px;" class="chart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGf&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGf&layout=compact&langs_count=16&theme=great-gatsby"/>
-</header>
+</div>
   
 <section style="display: flex; flex-direction:row;">
   <img height="150" alt="coding-time" src="code.gif">

@@ -35,33 +35,26 @@
     </div>
   </div>
 </section>
-
 <style> 
-.chart {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 30px;
-}
-
-.links {
-  display: flex;
-  flex-direction: row;
-}
-
-.icons {
-  height: 30px;
-  width: 40px;
-}
-
-.anchors {
-  height: 30px;
-  width: 80px;
-}
-
-.main {
-  margin-left: 20px;
-  margin-top: 20px;
-}
-
-
+  .chart {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  .links {
+    display: flex;
+    flex-direction: row;
+  }
+  .icons {
+    height: 30px;
+    width: 40px;
+  }
+  .anchors {
+    height: 30px;
+    width: 80px;
+  }
+  .main {
+    margin-left: 20px;
+    margin-top: 20px;
+  }
 </style>

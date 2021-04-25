@@ -18,6 +18,7 @@
       <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     </div>
     <br>
+    <br>
     <div>
       <a href = "mailto: work.luigi.fonseca@gmail.com">
         <img height="30" width="80" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">

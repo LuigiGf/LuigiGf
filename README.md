@@ -1,7 +1,5 @@
 # Faaaala dev, Luigi Aqui!
 
-<link href="style.css" rel="stylesheet"></link>
-
 <header class="chart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGf&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGf&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -37,3 +35,33 @@
     </div>
   </div>
 </section>
+
+<style> 
+.chart {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+}
+
+.icons {
+  height: 30px;
+  width: 40px;
+}
+
+.anchors {
+  height: 30px;
+  width: 80px;
+}
+
+.main {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+</style>

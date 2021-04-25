@@ -1,11 +1,11 @@
 # Faaaala dev, Luigi Aqui!
 
-<header style="margin-bottom: 30px;">
+<div style="margin-bottom: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=LuigiGf&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGf&layout=compact&langs_count=16&theme=great-gatsby"/>
-</header>
+</div>
   
-<section style="display: flex; flex-direction:row;">
+<div style="display: flex; flex-direction:row;">
   <img height="150" alt="coding-time" src="code.gif">
   <div style="margin-left: 20px; margin-top:20px">
     <div>
@@ -34,4 +34,4 @@
       </a>
     </div>
   </div>
-</section>
+</div>

@@ -19,15 +19,15 @@
 
 <div>
   <a href = "mailto: work.luigi.fonseca@gmail.com">
-    <img height="30" width="80" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img width="30" src="gmail.svg">
   </a>
   <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-    <img height="30" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img width="25" src="linkedin.svg">
   </a>
   <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-    <img height="30" width="80" src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white">
+    <img width="35" src="youtube.svg">
   </a>
   <a href = "https://www.instagram.com/devparadev/">
-    <img height="30" width="80" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img width="25" src="instagram.png">
   </a>
 </div>
